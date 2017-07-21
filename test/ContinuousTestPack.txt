@@ -1,1 +1,5 @@
 TestHello.hpp
+TestCellSorting.hpp
+TestCrypt.hpp
+TestDeltaNotch.hpp
+TestMorphogen.hpp
